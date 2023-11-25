@@ -1,0 +1,1 @@
+# patika_veri_yap-lari_ve_Algoritmalar_proje3
